@@ -12,3 +12,19 @@ body{
 .navbar-brand h3{
     font-family: 'Ubuntu', sans-serif;
 }
+#bg-img{
+    background: url("/Image/laptop.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+#about{
+    margin-top: -200px;
+}
+#about .fa{
+    color:#fff;
+}
+.media-body h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 3em;
+}

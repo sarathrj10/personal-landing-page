@@ -1,0 +1,14 @@
+body{
+    background-color: #ccc;
+}
+#header a:hover{
+   color: #fff;
+}
+.nav-item a{
+    text-decoration: none;
+    margin-left: 15px;
+    color:#ccc;
+}
+.navbar-brand h3{
+    font-family: 'Ubuntu', sans-serif;
+}

@@ -44,6 +44,10 @@ body{
     text-transform: uppercase;
     letter-spacing: 7px;
 }
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+.grows { transition: all .2s ease-in-out; }
+.grows:hover { transform: scale(1.05); }
 @media only screen and (max-width: 440px) {
    .media-body h3{
        font-size: 2.5em;
